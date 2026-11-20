@@ -1,5 +1,6 @@
-# Paria Diving Disaster — OSINT CTF Write-Up
+# No Oxygen — OSINT CTF Write-Up (Paria Diving Disaster)
 
+**Challenge:** `No Oxygen` (50 pts)  
 **Challmaker:** `MrGeneralQ`  
 **Attachment:** `footage_cam.mp4`  
 **Flag:** `OSINT{paria_diving_disaster_ttptp_queries@patnt.com}`
